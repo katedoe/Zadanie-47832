@@ -1,7 +1,13 @@
 h1 {
     color: #0000ff;
+    text-align: center;
 }
 
 p {
     font-size: 0.6cm;
+    text-align: center;
+}
+
+span {
+   color: #ff0000; 
 }
